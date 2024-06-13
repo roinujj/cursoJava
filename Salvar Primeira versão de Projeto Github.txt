@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Mensagem explicativa"
+
+git branch -M main
+
+git remote add origin git@github.com:roinujj/cursojava.git
+
+git push -u origin main
