@@ -1,4 +1,4 @@
-package application.entities;
+package entities;
 
 public class ToString_StringBuilder {
     /*public String toString() {

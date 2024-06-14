@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526da00c-721d-4383-add3-09f59ea22cef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/entities/ToString_StringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/entities/ToString_StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/ToString_StringBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
