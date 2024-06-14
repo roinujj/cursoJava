@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="526da00c-721d-4383-add3-09f59ea22cef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/padrao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/pedido_sb_enum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pedido_sb_enum/src/entities/enums/OrderStatus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
